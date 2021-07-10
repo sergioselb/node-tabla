@@ -1,4 +1,4 @@
-const fs = require('fs'); // es como cuando se exporta una libreria o hook en react pero de node
+const fs = require('fs'); //es como cuando se exporta una libreria o hook en react pero de node
 
 const crearArchivo = async(numero = 5, listar = false, hasta = 10) => { // se transformo en un funcion asincrona
 
